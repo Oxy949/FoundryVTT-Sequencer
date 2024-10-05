@@ -1,6 +1,6 @@
 # Sequencer
 
-![Latest Release Download Count](https://img.shields.io/github/downloads/fantasycalendar/FoundryVTT-Sequencer/latest/module.zip?color=2b82fc&label=DOWNLOADS&style=for-the-badge) [![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fsequencer&colorB=006400&style=for-the-badge)](https://forge-vtt.com/bazaar#package=sequencer) ![Foundry Verified Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fgithub.com%2Ffantasycalendar%2FFoundryVTT-Sequencer%2Freleases%2Flatest%2Fdownload%2Fmodule.json&label=Foundry%20Verified%20Version&query=$.compatibility.verified&colorB=orange&style=for-the-badge) ![Latest Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fgithub.com%2Ffantasycalendar%2FFoundryVTT-Sequencer%2Freleases%2Flatest%2Fdownload%2Fmodule.json&label=Latest%20Release&prefix=v&query=$.version&colorB=red&style=for-the-badge)
+![Latest Release Download Count](https://img.shields.io/github/downloads/Oxy949/FoundryVTT-Sequencer/latest/module.zip?color=2b82fc&label=DOWNLOADS&style=for-the-badge) [![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fsequencer&colorB=006400&style=for-the-badge)](https://forge-vtt.com/bazaar#package=sequencer) ![Foundry Verified Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fgithub.com%2FOxy949%2FFoundryVTT-Sequencer%2Freleases%2Flatest%2Fdownload%2Fmodule.json&label=Foundry%20Verified%20Version&query=$.compatibility.verified&colorB=orange&style=for-the-badge) ![Latest Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fgithub.com%2FOxy949%2FFoundryVTT-Sequencer%2Freleases%2Flatest%2Fdownload%2Fmodule.json&label=Latest%20Release&prefix=v&query=$.version&colorB=red&style=for-the-badge)
 
 ![Animation showing the Sequencer](docs/images/Animation2.gif)
 
@@ -44,10 +44,10 @@ Sequencer is a powerful module that lets you play visual effects in your scenes,
 
 You can install it through the Foundry module installer, or by copy-pasting this link into the module installer:
 
-[https://github.com/FantasyCalendar/FoundryVTT-Sequencer/releases/latest/download/module.json](https://github.com/FantasyCalendar/FoundryVTT-Sequencer/releases/latest/download/module.json)
+[https://github.com/Oxy949/FoundryVTT-Sequencer/releases/latest/download/module.json](https://github.com/Oxy949/FoundryVTT-Sequencer/releases/latest/download/module.json)
 
 If you want to test the beta track, you can install it from this link - **NOT RECOMMENDED FOR NOVICE USERS**:
-[https://raw.githubusercontent.com/fantasycalendar/FoundryVTT-Sequencer/next/module.json](https://raw.githubusercontent.com/fantasycalendar/FoundryVTT-Sequencer/next/module.json)
+[https://raw.githubusercontent.com/Oxy949/FoundryVTT-Sequencer/next/module.json](https://raw.githubusercontent.com/Oxy949/FoundryVTT-Sequencer/next/module.json)
 
 ## Contributing
 
